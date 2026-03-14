@@ -25,16 +25,16 @@ My work sits at the intersection of:
 
 ---
 
-# 🧠 What I Build
+# What I Build
 
-### 🤖 AI Systems
+### AI Systems
 
 - LLM-based applications
 - Retrieval-Augmented Generation (RAG)
 - Machine learning pipelines
 - Applied AI products
 
-### ⚙️ Backend Platforms
+### Backend Platforms
 
 - Scalable APIs
 - Asynchronous architectures
@@ -50,7 +50,7 @@ My work sits at the intersection of:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -93,17 +93,17 @@ My work sits at the intersection of:
 
 # 📦 Featured Projects
 
-### 🤖 AI Grading Platform
+### AI Grading Platform
 AI-powered automated grading platform based on **Large Language Models and Retrieval-Augmented Generation**.
 
 ---
 
-### 🚗 Autonomous Driving Dataset Pipeline
+### Autonomous Driving Dataset Pipeline
 Dataset generation and labeling pipeline designed to train **Vision-Language Models for autonomous driving scenarios**.
 
 ---
 
-### ⚙️ AI Systems in Production
+### AI Systems in Production
 Development of **machine learning services integrated into backend architectures** enabling real-time AI inference.
 
 ---
